@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
 <h3 align="center">Building Scalable Java Backend Systems & Intelligent Machine Learning Solutions</h3>
 
-- 🔭 I’m currently working on [https://github.com/ManojKumar-Katta/Crime-Aware-Video-Summarization](https://github.com/ManojKumar-Katta/Crime-Aware-Video-Summarization)
 
-- 🌱 I’m currently learning **opencv, YOLO.**
-
-- 👯 I’m looking to collaborate on [Crime-Aware Video Summarization](https://github.com/ManojKumar-Katta/Crime-Aware-Video-Summarization)
-
-- 💬 Ask me about **Machine Leaarning , web3.**
+- 💬 Ask me about **Machine Leaarning , Java backend.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
